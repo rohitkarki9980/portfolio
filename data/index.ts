@@ -89,11 +89,11 @@ export const projects = [
   ,
   {
     id: 3,
-    title: "Real Estate Projects, ",
-    img: "/image1.png",
-    des:"Project of the 3rd sem",
+    title: "Movie site, ",
+    img: "/image3.png",
+    des:"The main goal of this project is to learn about API integration and showcase movie details on the front end.",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://cosmic-queijadas-3175ab.netlify.app/",
+    link: "https://moviehub-gz40ciytk-rohitkarki9980s-projects.vercel.app/",
   }
 ];
 
