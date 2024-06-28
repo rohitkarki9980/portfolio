@@ -77,6 +77,23 @@ export const projects = [
     des:"Its a Landing page using tailwind css",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://nike-project-tailwind.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "Real Estate Projects, ",
+    img: "/image1.png",
+    des:"Project of the 3rd sem",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://cosmic-queijadas-3175ab.netlify.app/",
+  }
+  ,
+  {
+    id: 3,
+    title: "Real Estate Projects, ",
+    img: "/image1.png",
+    des:"Project of the 3rd sem",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://cosmic-queijadas-3175ab.netlify.app/",
   }
 ];
 
