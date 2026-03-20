@@ -138,13 +138,13 @@ export const socialMedia = [
     img: "/git.svg",
     link: "https://github.com/rohitkarki9980",
   },
+  // {
+  //   id: 2,
+  //   img: "/twit.svg",
+  //   link: "https://x.com/home?lang=en",
+  // },
   {
     id: 2,
-    img: "/twit.svg",
-    link: "https://x.com/home?lang=en",
-  },
-  {
-    id: 3,
     img: "/link.svg",
     link: "https://www.linkedin.com/in/rohit-karki-1b79661a1/",
   },
